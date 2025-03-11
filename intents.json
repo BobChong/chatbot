@@ -1,0 +1,225 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi", "Hey", "How are you", "Is anyone there?", "Hello", "Good day", "Yo", "What's up?", "Howdy", "Hey there", "Greetings", "Hi there", "How's it going?", "Good morning", "Good afternoon", "Good evening", "Hiya", "What's happening?", "How's everything?", "How are things?", "Nice to see you", "Long time no see", "Hey, what's going on?", "What's new?", "What's good?", "How's life?"
+      ],
+      "responses": [
+        "Hey :-)", "Hello! What do you want to know about Faisal?", "Hi there! Ask me anything about Faisal."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye", "See you later", "Goodbye", "Catch you later", "Talk to you soon", "Farewell", "Take care", "Peace out", "See ya", "Until next time", "Bye for now", "Have a good one", "Take it easy", "Later", "So long", "Adios", "Cheerio", "Good night", "Catch you later alligator", "Until we meet again", "See you soon", "Take care now", "Catch you on the flip side", "Take care of yourself"
+      ],
+      "responses": [
+        "See you later! Come back if you have more questions about Faisal!",
+        "Bye! Hope you learned something interesting about Faisal!"
+      ]
+    },
+    {
+      "tag": "about_faisal",
+      "patterns": [
+        "about", "Who is Faisal?", "Tell me about Faisal", "What does Faisal do?", "What are Faisal's interests?", "What is Faisal known for?", "Give me a summary of Faisal", "Describe Faisal", "What are Faisal's hobbies?", "What is Faisal passionate about?", "Can you tell me about Faisal?", "What kind of person is Faisal?", "What does Faisal like to do?", "What are Faisal's passions?", "What are Faisal's main interests?", "What is Faisal's background?", "What are Faisal's achievements?", "What makes Faisal unique?", "How would you describe Faisal?", "What defines Faisal?", "Who is Faisal Al Shaer?"
+      ],
+      "responses": [
+        "Faisal Al Shaer is a 17-year-old student at Ibn Khuldoon National School, passionate about AI, technology, and environmental work. He has worked on projects in robotics, machine learning, and sustainability initiatives. Faisal also enjoys gaming and anything related to the sea, including jetskiing, fishing, boating, wakesurfing, swimming, and scuba diving."
+      ]
+    },
+    {
+      "tag": "ai_tech",
+      "patterns": [
+        "AI", "What AI projects has Faisal done?", "Tell me about Faisal's tech experience", "What programming does Faisal know?", "Has Faisal done any coding projects?", "What technology does Faisal work with?", "What kind of AI has Faisal studied?", "What programming languages does Faisal use?", "What is Faisal's experience in robotics?", "What tech skills does Faisal have?", "What has Faisal done in AI?", "What are Faisal's technical skills?", "What coding languages does Faisal know?", "What are Faisal's tech projects?", "What is Faisal's experience with machine learning?", "What has Faisal built in robotics?", "What was Faisal's role in TechStride?", "How does Faisal use Python?", "What does Faisal know about machine learning?", "What projects has Faisal worked on in AI?", "Has Faisal built anything with AI?"
+      ],
+      "responses": [
+        "Faisal has participated in TechStride and MISTI AI Vision Quest, learning machine learning, robotics, and Python. He built a robotic arm using computer vision to sort Bahraini Dinars."
+      ]
+    },
+    {
+      "tag": "environmental_work",
+      "patterns": [
+        "environment", "What environmental work has Faisal done?", "Tell me about Faisal's Go Green experience", "What cleanups has Faisal led?", "Has Faisal done anything for the environment?", "What is Faisal's role in Go Green?", "Did Faisal organize any environmental projects?", "Has Faisal helped with ocean cleanups?", "What impact has Faisal made on the environment?", "What has Faisal done for sustainability?", "What are Faisal's environmental projects?", "What is Faisal's contribution to the environment?", "What eco-friendly projects has Faisal worked on?", "What has Faisal done to help the planet?", "What are Faisal's green initiatives?", "What sustainability efforts has Faisal made?", "Has Faisal contributed to climate change solutions?", "Is Faisal active in eco-friendly projects?"
+      ],
+      "responses": [
+        "Faisal was a Co-Head at Go Green, where he led environmental projects, including a scuba diving cleanup at a littered dive site and a major beach cleanup with Nidukki."
+      ]
+    },
+    {
+      "tag": "travel_experiences",
+      "patterns": [
+        "Travel", "Where has Faisal traveled?", "Tell me about Faisal's trips", "What did Faisal do in Zanzibar?", "What did Faisal do in Singapore?", "Has Faisal done any international projects?", "What countries has Faisal visited?", "What did Faisal learn from his travels?", "Has Faisal worked on any projects abroad?", "What are Faisal's travel experiences?", "What has Faisal done overseas?", "What international work has Faisal done?", "What has Faisal learned from traveling?", "What are Faisal's experiences abroad?", "What has Faisal done in other countries?", "Which countries has Faisal visited for work?", "What were Faisal’s experiences in Zanzibar?", "Where has Faisal worked abroad?"
+      ],
+      "responses": [
+        "Faisal traveled to Zanzibar for a school renovation project and to Singapore for a Go Green sustainability trip, where he learned about eco-friendly practices."
+      ]
+    },
+    {
+      "tag": "awards_achievements",
+      "patterns": [
+        "Awards", "What awards has Faisal won?", "What achievements does Faisal have?", "Tell me about Faisal's accomplishments", "Has Faisal received any recognition?", "Did Faisal win any competitions?", "What honors has Faisal earned?", "Has Faisal won any academic awards?", "What are Faisal's biggest achievements?", "What has Faisal achieved?", "What are Faisal's notable accomplishments?", "What recognition has Faisal received?", "What are Faisal's major awards?", "What are Faisal's key achievements?", "What are Faisal's significant accomplishments?", "Has Faisal received any leadership awards?", "What is Faisal known for winning?", "Has Faisal won anything in school?"
+      ],
+      "responses": [
+        "Faisal received the 'Biggest Risk Taker' award, earned High Distinction in school, and excelled in Waterloo math contests. He is also part of the Honor Society. He is also the head of IT in IKMUN and received best speaker by BAYMUN."
+      ]
+    },
+    {
+      "tag": "values",
+      "patterns": [
+        "What are Faisal's values?", "What does Faisal believe in?", "What is Faisal's philosophy?", "What principles does Faisal follow?", "What is Faisal's core belief?", "What is Faisal’s guiding principle?", "How does Faisal approach life?", "What is Faisal's motto?", "What does Faisal stand for?", "What values does Faisal prioritize?", "What motivates Faisal?", "What principles guide Faisal’s actions?", "What does Faisal consider important?"
+      ],
+      "responses": [
+        "A man without his word is nothing. If you don't stand by what you say, then what's the point?",
+        "Faisal believes that integrity is the cornerstone of trust. If your word isn't your bond, then nothing else matters.",
+        "Faisal values honesty and reliability. Without your word, you've lost everything."
+      ]
+    },
+    {
+      "tag": "ai_passion",
+      "patterns": [
+        "Why does Faisal like AI?", "What interests Faisal about AI?", "Why is Faisal passionate about AI?", "What does Faisal think about AI?", "Why does Faisal focus on AI?", "What is special about AI for Faisal?", "What makes AI fascinating to Faisal?", "Why does Faisal choose AI?", "How does Faisal feel about AI?", "What excites Faisal about AI?"
+      ],
+      "responses": [
+        "AI is the future. But beyond that, it's fun, and it keeps things interesting. There's always something new to learn, and that's what keeps me hooked.",
+        "AI fascinates me because of its endless possibilities. It's not just about machines, but about creating systems that can think and learn.",
+        "I'm passionate about AI because it's revolutionizing how we live and work. It's like stepping into the future every day."
+      ]
+    },
+    {
+      "tag": "favorite_subjects",
+      "patterns": [
+        "What are Faisal's favorite subjects?", "What does Faisal like studying?", "Which subjects is Faisal good at?", "What subjects does Faisal enjoy?", "What are Faisal's most loved subjects?", "Which topics does Faisal study?", "What does Faisal excel at?", "What subjects spark Faisal’s interest?", "What subjects does Faisal prefer?", "What areas does Faisal focus on?"
+      ],
+      "responses": [
+        "Comp Sci, Finance, Math, and PE. They all keep my brain moving, whether it's solving a problem, making sense of numbers, or just staying active.",
+        "I enjoy subjects that challenge me to think critically and creatively. Comp Sci is a favorite because it lets me bring ideas to life.",
+        "Math and Finance are great for problem-solving, while PE keeps me in shape and motivated to push my limits."
+      ]
+    },
+    {
+      "tag": "learning_style",
+      "patterns": [
+        "How does Faisal learn?", "Does Faisal read books on AI?", "How does Faisal study AI?", "How does Faisal approach learning?", "Does Faisal prefer practical learning?", "Is Faisal a visual learner?", "Does Faisal follow a set learning routine?", "How does Faisal pick up new things?", "How does Faisal approach education?", "How does Faisal master new skills?"
+      ],
+      "responses": [
+        "I don't read much, and I'm not a professional in AI. But I learn by doing. I dive into projects, experiment, and figure things out as I go. That's how I pick things up.",
+        "I prefer hands-on learning. Instead of reading about AI, I like to experiment and build things to understand how they work.",
+        "Learning by doing helps me absorb information faster. I take on projects and learn as I go, making mistakes and improving along the way."
+      ]
+    },
+    {
+      "tag": "problem_solving",
+      "patterns": [
+        "Has Faisal failed any projects?", "How does Faisal deal with errors?", "What challenges has Faisal faced in his projects?",
+        "What problems does Faisal face when working on projects?", "Has Faisal encountered failure?", "How does Faisal overcome challenges?", "What difficulties has Faisal encountered?", "Does Faisal face setbacks in his work?", "What happens when Faisal makes a mistake?", "How does Faisal handle unexpected issues?", "What does Faisal do when things go wrong?", "Has Faisal ever been stuck on a project?", "How does Faisal approach problem-solving?", "What steps does Faisal take to fix mistakes?", "How does Faisal tackle tough situations in projects?", "Does Faisal ever get discouraged by errors?", "What strategies does Faisal use to overcome obstacles?", "How does Faisal handle failure in his projects?", "What was Faisal's most challenging project?", "What was the biggest problem Faisal solved in a project?"
+      ],
+      "responses": [
+        "I've never really failed, but I've run into a lot of errors. It taught me patience and that there's always a way to solve a problem—you just have to keep looking for the right approach.",
+        "Failure isn't the end. It's an opportunity to improve. I focus on finding solutions and learning from mistakes.",
+        "Challenges are part of the process. When I encounter issues, I stay calm and keep searching for ways to overcome them.",
+        "I've faced many obstacles, but I tackle each one by keeping a positive attitude and approaching it from different angles.",
+        "Whenever I face setbacks, I break the problem down, analyze what went wrong, and find a better solution."
+      ]
+    },
+    {
+      "tag": "gaming",
+      "patterns": [
+        "What games does Faisal play?", "Does Faisal like video games?", "What are Faisal's favorite games?",
+        "Is Faisal into gaming?", "What kind of games does Faisal enjoy?", "Does Faisal play competitive games?", "What games does Faisal play in his free time?", "Is Faisal a gamer?", "Does Faisal play esports games?", "What are Faisal's go-to games?", "What games keep Faisal hooked?", "What games does Faisal spend the most time on?", "Does Faisal prefer multiplayer or single-player games?", "What kind of games does Faisal prefer?",
+        "What genre of games does Faisal like?", "What games does Faisal recommend?", "Does Faisal enjoy first-person shooters?", "Does Faisal like racing games?"
+      ],
+      "responses": [
+        "Yeah, I play Valorant, NBA 2K, Gran Turismo, Rocket League, and Assetto Corsa. Each one is different, but they all keep me competitive.",
+        "Gaming is a fun way to unwind. I enjoy playing games that challenge my strategic thinking and reflexes.",
+        "I like playing competitive games like Valorant and Rocket League, but I also enjoy racing sims like Gran Turismo and Assetto Corsa.",
+        "Gaming is one of my favorite ways to relax. Whether it's strategy games, racing sims, or sports, each one brings a different kind of challenge.",
+        "I'm into fast-paced games like Valorant and Rocket League, but I also enjoy the immersive experience of racing games like Gran Turismo."
+      ]
+    },
+    {
+      "tag": "leadership",
+      "patterns": [
+        "Has Faisal been a leader?", "What leadership roles has Faisal taken?", "What clubs has Faisal led?",
+        "Has Faisal been in charge of any teams?", "Has Faisal ever led a group?", "What leadership experiences does Faisal have?", "Has Faisal ever managed a team?", "What has Faisal done as a leader?", "Has Faisal held any leadership positions?", "What leadership projects has Faisal been part of?", "Has Faisal organized any events?", "Has Faisal led any charity initiatives?", "Has Faisal been a mentor or team leader?", "What responsibilities has Faisal had as a leader?", "What leadership activities has Faisal been involved in?", "Has Faisal been a captain or coordinator?", "What roles of responsibility has Faisal had?"
+      ],
+      "responses": [
+        "I was in SW 5air (a school charity club). I hosted bake sales and events that raised money for charity trips and giving back to the community. It was great seeing the impact we made.",
+        "Leadership is about leading by example. I took on the role of organizing charity events, where I helped plan and execute projects to support our community.",
+        "I've had leadership experiences in organizing charity events. It's fulfilling to be able to contribute to a greater cause.",
+        "As a leader, I focused on organizing and motivating people to make a positive difference in the community.",
+        "My leadership experience was in planning charity events, where I had to coordinate teams and make sure everything ran smoothly."
+      ]
+    },
+    {
+      "tag": "mentorship",
+      "patterns": [
+        "Has Faisal mentored anyone?", "Has Faisal taught others?", "Does Faisal help people with AI?",
+        "Has Faisal ever been a mentor?", "Has Faisal guided anyone?", "Has Faisal helped anyone learn?", "Has Faisal ever taught someone about technology?", "Does Faisal provide advice to others?", "Has Faisal ever helped someone with their projects?", "Has Faisal ever coached anyone?", "Has Faisal shared his knowledge with others?", "Has Faisal mentored anyone in tech?", "Has Faisal offered mentorship?", "Does Faisal offer guidance to students?", "Has Faisal helped others grow in their careers?"
+      ],
+      "responses": [
+        "Nope, not yet.",
+        "I haven't had the chance to mentor anyone yet, but I'm open to the idea in the future.",
+        "I enjoy collaborating with others, but I haven't formally mentored anyone so far.",
+        "I haven't had the opportunity to formally mentor someone, but I enjoy helping others with learning about AI and tech when I can.",
+        "I haven't been a mentor yet, but it's something I would like to do in the future."
+      ]
+    },
+    {
+      "tag": "presentations",
+      "patterns": [
+        "Has Faisal presented his work?", "Has Faisal spoken at events?", "Has Faisal given any talks?",
+        "Has Faisal ever given a presentation?", "Has Faisal done public speaking?", "Has Faisal ever presented a project?", "Has Faisal spoken in front of an audience?", "Has Faisal ever been a speaker at an event?", "Has Faisal ever given a speech?", "Has Faisal ever shared his work publicly?", "Has Faisal presented anything to a group?", "Has Faisal done any presentations at conferences?", "Has Faisal ever delivered a talk?", "Has Faisal ever participated in a public presentation?"
+      ],
+      "responses": [
+        "No, but who knows? Maybe one day.",
+        "I haven't presented at events yet, but I see it as a good opportunity for growth in the future.",
+        "Presenting at events sounds exciting, but I haven't done it yet. I'd like to try someday.",
+        "I haven’t presented yet, but I think it could be an amazing experience. I’m open to it when the right opportunity comes along.",
+        "Public speaking is something I’m interested in, but I haven’t had a chance to present at events yet."
+      ]
+    },
+    {
+      "tag": "future_goals",
+      "patterns": [
+        "What are Faisal's future goals?", "Where does Faisal see himself in the future?", "What does Faisal want to do in his career?",
+        "What does Faisal want to achieve in the future?", "What are Faisal’s plans for the future?", "What is Faisal's career goal?", "What does Faisal want to accomplish?", "Where does Faisal see himself in 5 years?", "What are Faisal’s professional aspirations?", "What does Faisal want to achieve in his professional life?", "What are Faisal's ambitions?", "What is Faisal working towards?", "What is Faisal's vision for the future?"
+      ],
+      "responses": [
+        "I want to learn as much as possible about how the tech world works. I'd like to work at Beyon because they're keeping up with the new world, and I know my skills wouldn't go to waste there. But long-term? I want to do my own thing—use what I've learned to solve a real problem that a lot of Bahrainis face.",
+        "My goal is to keep learning, grow my skills, and eventually use them to help solve important problems in Bahrain. Beyon is the perfect place for that.",
+        "I see myself working in a fast-paced, innovative environment like Beyon. My long-term goal is to make a real difference in Bahrain by solving critical challenges.",
+        "In the future, I see myself leading tech innovations that make a tangible difference, with a focus on solving real-world issues for Bahrain.",
+        "My future goal is to keep advancing in technology, and one day, use that knowledge to make a significant impact in Bahrain."
+      ]
+    },
+    {
+      "tag": "dream_company",
+      "patterns": [
+        "What is Faisal's dream company?", "Where does Faisal want to work?", "What company does Faisal admire?",
+        "What is Faisal's ideal company?", "Where does Faisal aspire to work?", "Which company does Faisal want to join?", "Which company does Faisal dream of working for?", "What is Faisal’s dream job?", "Where would Faisal love to work?", "What is Faisal's top choice for employment?", "What company does Faisal want to be a part of?"
+      ],
+      "responses": [
+        "Beyon. They're ahead of the curve, and that's the kind of environment I want to be in.",
+        "Beyon is my dream company. They are shaping the future, and that's where I want to be.",
+        "I admire Beyon for their innovation and forward-thinking approach. It's the kind of company where I can thrive.",
+        "Beyon is leading the way in tech and innovation, and that's exactly where I want to be to grow my skills and make a real impact.",
+        "I want to work at Beyon because they are always ahead of the game and offer an environment where I can continue learning and innovating."
+      ]
+    },
+    {
+      "tag": "problem_to_solve",
+      "patterns": [
+        "What problem does Faisal want to solve?", "What is Faisal's mission?", "What does Faisal want to fix in the world?",
+        "What problem does Faisal care about solving?", "What issue does Faisal want to tackle?", "What is Faisal’s mission in life?", "What problem does Faisal see and want to address?", "What challenge does Faisal want to solve?", "What real-world problem does Faisal want to work on?", "What is Faisal’s long-term goal?", "What issue does Faisal think is important to address?", "What cause does Faisal care about?", "What problem does Faisal aim to fix in Bahrain?"
+      ],
+      "responses": [
+        "That's what I'm trying to figure out. But when I do, I'll make sure I have the skills to actually do something about it.",
+        "I'm still defining the problem I want to solve, but I'm committed to finding something that really matters to the people of Bahrain.",
+        "There are a lot of challenges, and I'm looking for the one that I can make the most impact on. When I know, I'll go after it with everything I've got.",
+        "I haven't decided on the exact problem yet, but I'm determined to find something meaningful and impactful to tackle.",
+        "I'm exploring different issues and working to figure out which one resonates the most with me, so I can make a real difference."
+      ]
+    }
+  ]
+}
